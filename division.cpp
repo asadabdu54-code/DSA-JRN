@@ -16,9 +16,10 @@ int main()
 
     int result = num1 / num2 ;
 
-    std::cout <<"The result with integer variable is: " << result << std::endl;
+    std::cout <<"The result as integer is: " << result << std::endl;
 
-    std::cout <<"The result with floating point variable is: 3" << (float)num1/num2 << std::endl;
+     double sec_result = static_cast<double>(num1) / num2 ;
+    std::cout <<"The result as double is: " << sec_result << std::endl;
     
 
 }
