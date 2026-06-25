@@ -11,5 +11,4 @@ int main()
      std::cout << "The value is : " << i * i << "\n";
     }
 }
-
 }
