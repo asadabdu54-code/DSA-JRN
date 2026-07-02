@@ -1,13 +1,8 @@
 # Executables
 *.exe
 
-# VS Code C++ database
-.vscode/BROWSE.VC.DB
-.vscode/BROWSE.VC.DB-shm
-.vscode/BROWSE.VC.DB-wal
+# VS Code
+.vscode/
 
-# Optional VS Code settings
-.vscode/ipch/
-
-# Build output
-build/
+# Ignore practice file
+practice.cpp
