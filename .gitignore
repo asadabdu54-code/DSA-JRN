@@ -1,8 +1,0 @@
-# Executables
-*.exe
-
-# VS Code
-.vscode/
-
-# Ignore practice file
-practice.cpp
