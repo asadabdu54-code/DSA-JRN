@@ -1,0 +1,10 @@
+# Executables
+*.exe
+
+# VS Code
+.vscode/
+
+# Ignore  file
+practice.cpp
+loop.cpp
+test.cpp
